@@ -1,0 +1,11 @@
+Flask
+Flask-Login
+Flask-SQLAlchemy
+python-dotenv
+supabase
+psycopg2-binary
+Flask-WTF
+bcrypt
+pandas
+reportlab
+gunicorn
